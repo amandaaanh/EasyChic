@@ -1,0 +1,73 @@
+Customer_ID,Product_Colour,Product_Quality,Product_Size,Product_Thickness,Recommendation
+CS001,White,Cotton Combed,L,20s,direkomendasikan
+CS002,White,Cotton Combed,L,24s,direkomendasikan
+CS003,Black,Cotton Combed,XL,24s,direkomendasikan
+CS004,Black,Polyester,M,0,direkomendasikan
+CS005,Maroon,Spandex,S,0,direkomendasikan
+CS006,Maroon,Cotton Combed,XXL,24s,direkomendasikan
+CS007,Mustard,Polyester,M,0,direkomendasikan
+CS008,Grey,Cotton Combed,L,30s,direkomendasikan
+CS009,Sage,Spandex,XXL,0,direkomendasikan
+CS010,Grey,Polyester,S,0,direkomendasikan
+CS011,White,Cotton Combed,M,20s,direkomendasikan
+CS012,White,Spandex,S,0,direkomendasikan
+CS013,Black,Spandex,L,0,direkomendasikan
+CS014,Black,Cotton Combed,L,30s,direkomendasikan
+CS015,Maroon,Cotton Combed,M,24s,direkomendasikan
+CS016,Mustard,Polyester,XXL,0,direkomendasikan
+CS017,Mustard,Cotton Combed,XL,20s,direkomendasikan
+CS018,Grey,Spandex,XXL,0,direkomendasikan
+CS019,Sage,Polyester,S,0,direkomendasikan
+CS020,Sage,Cotton Combed,M,30s,direkomendasikan
+CS021,Mustard,Polyester,L,0,direkomendasikan
+CS022,Mustard,Spandex,L,0,direkomendasikan
+CS023,White,Cotton Combed,S,24s,direkomendasikan
+CS024,White,Polyester,M,0,direkomendasikan
+CS025,White,Polyester,XXL,0,direkomendasikan
+CS026,White,Spandex,XL,0,direkomendasikan
+CS027,Black,Cotton Combed,S,20s,direkomendasikan
+CS028,Black,Cotton Combed,M,30s,direkomendasikan
+CS029,Black,Cotton Combed,L,24s,direkomendasikan
+CS030,Maroon,Spandex,S,0,direkomendasikan
+CS031,Grey,Spandex,XXL,0,direkomendasikan
+CS032,Sage,Polyester,XXL,0,direkomendasikan
+CS033,Sage,Polyester,L,0,direkomendasikan
+CS034,Grey,Cotton Combed,XL,20s,direkomendasikan
+CS035,Grey,Spandex,M,0,direkomendasikan
+CS036,Grey,Polyester,S,0,direkomendasikan
+CS037,Mustard,Polyester,XXL,0,direkomendasikan
+CS038,Mustard,Spandex,XL,0,direkomendasikan
+CS039,White,Cotton Combed,XXL,24s,direkomendasikan
+CS040,White,Cotton Combed,L,30s,direkomendasikan
+CS041,White,Polyester,L,0,direkomendasikan
+CS042,Maroon,Spandex,S,0,direkomendasikan
+CS043,Grey,Spandex,XXL,0,direkomendasikan
+CS044,Grey,Cotton Combed,S,20s,direkomendasikan
+CS045,Sage,Polyester,XXL,0,direkomendasikan
+CS046,Sage,Cotton Combed,M,30s,direkomendasikan
+CS047,Maroon,Spandex,XL,0,direkomendasikan
+CS048,Black,Spandex,L,0,direkomendasikan
+CS049,Black,Cotton Combed,XXL,20s,direkomendasikan
+CS050,Black,Cotton Combed,XXL,24s,direkomendasikan
+CS051,White,Polyester,L,20s,tidak direkomendasikan
+CS052,White,Spandex,L,24s,tidak direkomendasikan
+CS053,Black,Spandex,XL,24s,tidak direkomendasikan
+CS054,Maroon,Polyester,XXL,24s,tidak direkomendasikan
+CS055,Maroon,Spandex,XXL,24s,tidak direkomendasikan
+CS056,Grey,Polyester,L,30s,tidak direkomendasikan
+CS057,White,Spandex,M,20s,tidak direkomendasikan
+CS058,Black,Polyester,L,30s,tidak direkomendasikan
+CS059,Maroon,Spandex,M,24s,tidak direkomendasikan
+CS060,Mustard,Polyester,XL,20s,tidak direkomendasikan
+CS061,Sage,Polyester,M,30s,tidak direkomendasikan
+CS062,White,Polyester,S,24s,tidak direkomendasikan
+CS063,Black,Spandex,S,20s,tidak direkomendasikan
+CS064,Black,Spandex,M,30s,tidak direkomendasikan
+CS065,Black,Spandex,L,24s,tidak direkomendasikan
+CS066,Grey,Spandex,XL,20s,tidak direkomendasikan
+CS067,White,Polyester,XXL,24s,tidak direkomendasikan
+CS068,White,Spandex,L,30s,tidak direkomendasikan
+CS069,Grey,Spandex,S,20s,tidak direkomendasikan
+CS070,Sage,Polyester,M,30s,tidak direkomendasikan
+CS071,Black,Spandex,XXL,20s,tidak direkomendasikan
+CS072,Black,Polyester,XXL,24s,tidak direkomendasikan
