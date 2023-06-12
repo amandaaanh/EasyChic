@@ -1,73 +1,452 @@
-Customer_ID,Product_Colour,Product_Quality,Product_Size,Product_Thickness,Recommendation
-CS001,White,Cotton Combed,L,20s,direkomendasikan
-CS002,White,Cotton Combed,L,24s,direkomendasikan
-CS003,Black,Cotton Combed,XL,24s,direkomendasikan
-CS004,Black,Polyester,M,0,direkomendasikan
-CS005,Maroon,Spandex,S,0,direkomendasikan
-CS006,Maroon,Cotton Combed,XXL,24s,direkomendasikan
-CS007,Mustard,Polyester,M,0,direkomendasikan
-CS008,Grey,Cotton Combed,L,30s,direkomendasikan
-CS009,Sage,Spandex,XXL,0,direkomendasikan
-CS010,Grey,Polyester,S,0,direkomendasikan
-CS011,White,Cotton Combed,M,20s,direkomendasikan
-CS012,White,Spandex,S,0,direkomendasikan
-CS013,Black,Spandex,L,0,direkomendasikan
-CS014,Black,Cotton Combed,L,30s,direkomendasikan
-CS015,Maroon,Cotton Combed,M,24s,direkomendasikan
-CS016,Mustard,Polyester,XXL,0,direkomendasikan
-CS017,Mustard,Cotton Combed,XL,20s,direkomendasikan
-CS018,Grey,Spandex,XXL,0,direkomendasikan
-CS019,Sage,Polyester,S,0,direkomendasikan
-CS020,Sage,Cotton Combed,M,30s,direkomendasikan
-CS021,Mustard,Polyester,L,0,direkomendasikan
-CS022,Mustard,Spandex,L,0,direkomendasikan
-CS023,White,Cotton Combed,S,24s,direkomendasikan
-CS024,White,Polyester,M,0,direkomendasikan
-CS025,White,Polyester,XXL,0,direkomendasikan
-CS026,White,Spandex,XL,0,direkomendasikan
-CS027,Black,Cotton Combed,S,20s,direkomendasikan
-CS028,Black,Cotton Combed,M,30s,direkomendasikan
-CS029,Black,Cotton Combed,L,24s,direkomendasikan
-CS030,Maroon,Spandex,S,0,direkomendasikan
-CS031,Grey,Spandex,XXL,0,direkomendasikan
-CS032,Sage,Polyester,XXL,0,direkomendasikan
-CS033,Sage,Polyester,L,0,direkomendasikan
-CS034,Grey,Cotton Combed,XL,20s,direkomendasikan
-CS035,Grey,Spandex,M,0,direkomendasikan
-CS036,Grey,Polyester,S,0,direkomendasikan
-CS037,Mustard,Polyester,XXL,0,direkomendasikan
-CS038,Mustard,Spandex,XL,0,direkomendasikan
-CS039,White,Cotton Combed,XXL,24s,direkomendasikan
-CS040,White,Cotton Combed,L,30s,direkomendasikan
-CS041,White,Polyester,L,0,direkomendasikan
-CS042,Maroon,Spandex,S,0,direkomendasikan
-CS043,Grey,Spandex,XXL,0,direkomendasikan
-CS044,Grey,Cotton Combed,S,20s,direkomendasikan
-CS045,Sage,Polyester,XXL,0,direkomendasikan
-CS046,Sage,Cotton Combed,M,30s,direkomendasikan
-CS047,Maroon,Spandex,XL,0,direkomendasikan
-CS048,Black,Spandex,L,0,direkomendasikan
-CS049,Black,Cotton Combed,XXL,20s,direkomendasikan
-CS050,Black,Cotton Combed,XXL,24s,direkomendasikan
-CS051,White,Polyester,L,20s,tidak direkomendasikan
-CS052,White,Spandex,L,24s,tidak direkomendasikan
-CS053,Black,Spandex,XL,24s,tidak direkomendasikan
-CS054,Maroon,Polyester,XXL,24s,tidak direkomendasikan
-CS055,Maroon,Spandex,XXL,24s,tidak direkomendasikan
-CS056,Grey,Polyester,L,30s,tidak direkomendasikan
-CS057,White,Spandex,M,20s,tidak direkomendasikan
-CS058,Black,Polyester,L,30s,tidak direkomendasikan
-CS059,Maroon,Spandex,M,24s,tidak direkomendasikan
-CS060,Mustard,Polyester,XL,20s,tidak direkomendasikan
-CS061,Sage,Polyester,M,30s,tidak direkomendasikan
-CS062,White,Polyester,S,24s,tidak direkomendasikan
-CS063,Black,Spandex,S,20s,tidak direkomendasikan
-CS064,Black,Spandex,M,30s,tidak direkomendasikan
-CS065,Black,Spandex,L,24s,tidak direkomendasikan
-CS066,Grey,Spandex,XL,20s,tidak direkomendasikan
-CS067,White,Polyester,XXL,24s,tidak direkomendasikan
-CS068,White,Spandex,L,30s,tidak direkomendasikan
-CS069,Grey,Spandex,S,20s,tidak direkomendasikan
-CS070,Sage,Polyester,M,30s,tidak direkomendasikan
-CS071,Black,Spandex,XXL,20s,tidak direkomendasikan
-CS072,Black,Polyester,XXL,24s,tidak direkomendasikan
+Customer_ID,Product_Colour,Product_Quality,Product_Size,Product_Thickness
+CS001,Sage,Spandex,M,20s
+CS001,White,Spandex,S,0
+CS001,Mustard,Spandex,M,24s
+CS001,Black,Polyester,S,20s
+CS001,Mustard,Cotton Combed,S,30s
+CS001,Maroon,Polyester,XL,20s
+CS001,Black,Spandex,XXL,0
+CS001,White,Cotton Combed,XXL,0
+CS001,Sage,Spandex,M,20s
+CS001,Sage,Polyester,L,0
+CS002,Sage,Cotton Combed,L,0
+CS002,Grey,Spandex,M,0
+CS002,Mustard,Polyester,S,0
+CS002,Sage,Polyester,XL,0
+CS002,Mustard,Polyester,M,0
+CS002,Grey,Polyester,M,0
+CS002,Sage,Polyester,M,0
+CS002,Maroon,Polyester,L,0
+CS002,Maroon,Spandex,S,0
+CS002,Maroon,Spandex,M,0
+CS003,Black,Cotton Combed,XXL,20s
+CS003,Mustard,Spandex,XXL,0
+CS003,Grey,Spandex,XL,20s
+CS003,Sage,Spandex,XXL,20s
+CS003,Maroon,Spandex,XXL,0
+CS003,Maroon,Cotton Combed,L,0
+CS003,Black,Cotton Combed,XXL,20s
+CS003,Sage,Polyester,XXL,0
+CS003,Black,Spandex,S,20s
+CS003,Mustard,Spandex,S,0
+CS004,Grey,Polyester,S,0
+CS004,Mustard,Spandex,L,0
+CS004,Sage,Polyester,XL,0
+CS004,Grey,Polyester,M,30s
+CS004,Grey,Polyester,XL,20s
+CS004,White,Spandex,S,30s
+CS004,Sage,Cotton Combed,XXL,0
+CS004,Sage,Spandex,S,0
+CS004,Grey,Polyester,S,0
+CS004,Black,Spandex,XXL,0
+CS005,Mustard,Cotton Combed,S,30s
+CS005,Black,Polyester,M,0
+CS005,White,Spandex,XL,0
+CS005,Maroon,Cotton Combed,S,0
+CS005,Grey,Polyester,XXL,30s
+CS005,Grey,Cotton Combed,L,0
+CS005,Grey,Spandex,XL,0
+CS005,White,Spandex,L,0
+CS005,Mustard,Polyester,XL,20s
+CS005,Grey,Cotton Combed,M,0
+CS006,Grey,Polyester,S,0
+CS006,Sage,Cotton Combed,S,0
+CS006,Maroon,Polyester,L,0
+CS006,White,Spandex,XL,0
+CS006,White,Polyester,L,0
+CS006,Maroon,Spandex,L,24s
+CS006,Black,Polyester,L,0
+CS006,Sage,Polyester,L,0
+CS006,Grey,Polyester,S,20s
+CS006,Black,Spandex,L,0
+CS007,Sage,Polyester,L,0
+CS007,Sage,Polyester,L,0
+CS007,Black,Cotton Combed,M,0
+CS007,Mustard,Polyester,S,0
+CS007,Mustard,Cotton Combed,S,0
+CS007,Maroon,Spandex,L,0
+CS007,White,Polyester,XXL,0
+CS007,Sage,Cotton Combed,S,24s
+CS007,White,Cotton Combed,L,0
+CS007,Maroon,Spandex,S,24s
+CS008,Sage,Cotton Combed,M,0
+CS008,Maroon,Cotton Combed,L,20s
+CS008,Black,Polyester,S,24s
+CS008,Mustard,Polyester,XXL,0
+CS008,Mustard,Cotton Combed,S,24s
+CS008,Black,Spandex,XL,24s
+CS008,Black,Polyester,XL,0
+CS008,Mustard,Spandex,S,30s
+CS008,Mustard,Spandex,L,0
+CS008,Maroon,Spandex,S,0
+CS009,White,Spandex,M,0
+CS009,Mustard,Spandex,L,0
+CS009,White,Spandex,S,0
+CS009,Black,Spandex,L,24s
+CS009,Grey,Polyester,S,0
+CS009,Sage,Cotton Combed,XL,0
+CS009,Grey,Spandex,XL,30s
+CS009,Sage,Spandex,XL,0
+CS009,Maroon,Polyester,L,0
+CS009,White,Spandex,XXL,0
+CS010,Sage,Cotton Combed,XL,0
+CS010,Black,Polyester,XL,24s
+CS010,Grey,Spandex,XL,0
+CS010,Grey,Polyester,S,0
+CS010,White,Polyester,L,24s
+CS010,White,Polyester,M,20s
+CS010,Maroon,Spandex,S,0
+CS010,Maroon,Spandex,M,0
+CS010,White,Spandex,S,0
+CS010,White,Polyester,XL,0
+CS011,Sage,Spandex,S,20s
+CS011,Mustard,Spandex,L,0
+CS011,White,Spandex,XL,24s
+CS011,Mustard,Polyester,XXL,0
+CS011,Mustard,Cotton Combed,S,0
+CS011,White,Spandex,L,0
+CS011,Maroon,Spandex,L,24s
+CS011,Mustard,Cotton Combed,XXL,0
+CS011,Maroon,Spandex,M,20s
+CS011,Grey,Polyester,XL,0
+CS012,Sage,Cotton Combed,L,24s
+CS012,Black,Spandex,S,0
+CS012,Grey,Spandex,S,20s
+CS012,White,Spandex,XL,0
+CS012,Sage,Cotton Combed,XL,30s
+CS012,Sage,Polyester,M,0
+CS012,Sage,Spandex,XL,0
+CS012,White,Cotton Combed,L,0
+CS012,Sage,Spandex,L,20s
+CS012,Black,Spandex,S,0
+CS013,Black,Polyester,XL,0
+CS013,White,Spandex,L,0
+CS013,Black,Cotton Combed,M,0
+CS013,White,Cotton Combed,M,0
+CS013,Sage,Polyester,S,20s
+CS013,Grey,Polyester,M,20s
+CS013,Black,Spandex,XXL,0
+CS013,Black,Polyester,L,0
+CS013,Sage,Polyester,M,24s
+CS013,Grey,Cotton Combed,S,0
+CS014,Black,Cotton Combed,S,0
+CS014,White,Spandex,L,0
+CS014,Maroon,Polyester,S,30s
+CS014,White,Cotton Combed,XL,24s
+CS014,White,Polyester,XL,0
+CS014,White,Spandex,S,20s
+CS014,Mustard,Spandex,XL,0
+CS014,Black,Spandex,M,0
+CS014,Sage,Spandex,S,0
+CS014,Sage,Polyester,L,0
+CS015,Sage,Cotton Combed,S,20s
+CS015,White,Cotton Combed,M,20s
+CS015,White,Cotton Combed,S,0
+CS015,Maroon,Spandex,XXL,0
+CS015,Black,Polyester,XXL,0
+CS015,Black,Polyester,L,0
+CS015,Mustard,Cotton Combed,XXL,0
+CS015,Sage,Cotton Combed,XXL,0
+CS015,Mustard,Spandex,L,0
+CS015,Mustard,Cotton Combed,M,24s
+CS016,Mustard,Cotton Combed,M,24s
+CS016,Grey,Cotton Combed,S,0
+CS016,Black,Polyester,M,0
+CS016,Black,Polyester,S,0
+CS016,Maroon,Cotton Combed,L,0
+CS016,Mustard,Spandex,S,20s
+CS016,Mustard,Spandex,M,0
+CS016,Grey,Cotton Combed,S,30s
+CS016,White,Spandex,L,20s
+CS016,White,Spandex,XXL,0
+CS017,Black,Polyester,L,0
+CS017,White,Spandex,S,0
+CS017,Sage,Spandex,XXL,0
+CS017,Sage,Spandex,M,24s
+CS017,Mustard,Cotton Combed,S,20s
+CS017,White,Polyester,L,0
+CS017,Mustard,Cotton Combed,XXL,0
+CS017,Grey,Polyester,L,0
+CS017,Mustard,Spandex,XXL,0
+CS017,White,Spandex,XL,0
+CS018,Black,Cotton Combed,L,0
+CS018,Grey,Spandex,S,0
+CS018,White,Polyester,S,0
+CS018,Sage,Polyester,S,0
+CS018,Maroon,Spandex,S,0
+CS018,Mustard,Spandex,M,0
+CS018,White,Spandex,XXL,0
+CS018,Grey,Polyester,XXL,0
+CS018,Maroon,Cotton Combed,S,0
+CS018,White,Polyester,S,0
+CS019,Mustard,Polyester,L,0
+CS019,Black,Spandex,M,0
+CS019,Grey,Polyester,M,0
+CS019,Black,Polyester,L,20s
+CS019,White,Cotton Combed,XXL,0
+CS019,Black,Cotton Combed,XXL,0
+CS019,Sage,Spandex,XXL,0
+CS019,Grey,Spandex,XL,20s
+CS019,Maroon,Cotton Combed,M,0
+CS019,Maroon,Polyester,XXL,0
+CS020,Grey,Spandex,L,0
+CS020,Maroon,Polyester,S,20s
+CS020,Black,Spandex,XL,0
+CS020,Sage,Polyester,XL,0
+CS020,Sage,Polyester,M,0
+CS020,White,Cotton Combed,M,0
+CS020,Black,Cotton Combed,L,30s
+CS020,White,Polyester,L,0
+CS020,Grey,Polyester,S,0
+CS020,Grey,Spandex,S,24s
+CS021,Grey,Spandex,XL,0
+CS021,Sage,Polyester,XXL,0
+CS021,Maroon,Cotton Combed,L,20s
+CS021,White,Cotton Combed,M,0
+CS021,Black,Polyester,XXL,0
+CS021,White,Spandex,S,20s
+CS021,Sage,Spandex,M,0
+CS021,Grey,Cotton Combed,L,24s
+CS021,Mustard,Spandex,XL,0
+CS021,Black,Cotton Combed,XL,0
+CS022,Maroon,Polyester,XL,20s
+CS022,Grey,Polyester,XXL,0
+CS022,Grey,Cotton Combed,L,0
+CS022,White,Polyester,XL,0
+CS022,Grey,Polyester,M,30s
+CS022,Black,Polyester,XL,0
+CS022,Black,Cotton Combed,XXL,0
+CS022,Mustard,Polyester,L,0
+CS022,Grey,Spandex,XL,0
+CS022,Black,Polyester,XXL,24s
+CS023,Grey,Spandex,XL,0
+CS023,Grey,Cotton Combed,M,20s
+CS023,White,Spandex,S,0
+CS023,Black,Polyester,L,0
+CS023,Grey,Polyester,XL,0
+CS023,White,Polyester,XXL,0
+CS023,Black,Cotton Combed,XL,24s
+CS023,White,Polyester,L,20s
+CS023,Mustard,Polyester,M,0
+CS023,Maroon,Polyester,S,20s
+CS024,White,Polyester,S,0
+CS024,Grey,Polyester,XL,0
+CS024,Sage,Polyester,XXL,0
+CS024,Mustard,Polyester,XL,0
+CS024,Black,Spandex,M,0
+CS024,White,Spandex,L,0
+CS024,Black,Spandex,XXL,20s
+CS024,Mustard,Cotton Combed,XXL,0
+CS024,Maroon,Polyester,XL,0
+CS024,Sage,Spandex,L,0
+CS025,White,Polyester,M,20s
+CS025,Sage,Cotton Combed,L,0
+CS025,Black,Spandex,M,24s
+CS025,Mustard,Cotton Combed,XL,20s
+CS025,Maroon,Cotton Combed,L,20s
+CS025,Sage,Polyester,M,0
+CS025,Sage,Cotton Combed,XXL,0
+CS025,White,Spandex,L,24s
+CS025,Grey,Polyester,XXL,0
+CS025,Black,Spandex,L,0
+CS026,Grey,Polyester,XXL,0
+CS026,Maroon,Spandex,M,0
+CS026,Maroon,Cotton Combed,L,24s
+CS026,Sage,Spandex,XL,0
+CS026,Sage,Cotton Combed,S,30s
+CS026,Mustard,Cotton Combed,S,24s
+CS026,Mustard,Cotton Combed,XL,0
+CS026,Mustard,Spandex,S,0
+CS026,Black,Spandex,S,0
+CS026,Mustard,Spandex,XXL,20s
+CS027,Sage,Cotton Combed,XXL,0
+CS027,Mustard,Polyester,L,0
+CS027,Sage,Cotton Combed,XXL,0
+CS027,White,Polyester,M,30s
+CS027,White,Spandex,XL,0
+CS027,Black,Spandex,XXL,0
+CS027,Sage,Spandex,M,30s
+CS027,White,Polyester,S,0
+CS027,Black,Spandex,XL,0
+CS027,Maroon,Spandex,S,0
+CS028,Sage,Cotton Combed,M,24s
+CS028,Maroon,Cotton Combed,XXL,20s
+CS028,White,Spandex,XXL,24s
+CS028,Black,Cotton Combed,L,0
+CS028,White,Polyester,XL,0
+CS028,White,Spandex,S,0
+CS028,Mustard,Spandex,L,0
+CS028,Grey,Spandex,XL,30s
+CS028,Mustard,Spandex,M,30s
+CS028,Maroon,Cotton Combed,S,0
+CS029,Mustard,Spandex,L,0
+CS029,White,Spandex,M,0
+CS029,Mustard,Spandex,S,0
+CS029,Sage,Cotton Combed,L,20s
+CS029,White,Polyester,M,20s
+CS029,Maroon,Cotton Combed,M,0
+CS029,Mustard,Polyester,M,20s
+CS029,Sage,Polyester,M,0
+CS029,White,Polyester,S,0
+CS029,White,Cotton Combed,L,0
+CS030,Mustard,Spandex,M,0
+CS030,Black,Polyester,S,30s
+CS030,White,Polyester,S,0
+CS030,White,Polyester,M,0
+CS030,Grey,Spandex,S,0
+CS030,White,Cotton Combed,S,0
+CS030,Mustard,Cotton Combed,L,24s
+CS030,Mustard,Spandex,XL,20s
+CS030,Grey,Spandex,M,0
+CS030,Mustard,Polyester,M,0
+CS031,Grey,Cotton Combed,S,20s
+CS031,Mustard,Polyester,S,30s
+CS031,Mustard,Spandex,S,20s
+CS031,Maroon,Polyester,L,20s
+CS031,Sage,Spandex,L,30s
+CS031,White,Cotton Combed,XL,0
+CS031,Black,Cotton Combed,L,20s
+CS031,Mustard,Cotton Combed,L,24s
+CS031,Black,Polyester,S,0
+CS031,Maroon,Polyester,M,0
+CS032,Black,Polyester,M,0
+CS032,Mustard,Spandex,L,0
+CS032,Mustard,Cotton Combed,XL,0
+CS032,Mustard,Polyester,S,0
+CS032,Sage,Spandex,XL,20s
+CS032,Black,Cotton Combed,L,0
+CS032,Black,Polyester,XL,0
+CS032,White,Cotton Combed,L,24s
+CS032,Sage,Spandex,XL,0
+CS032,Black,Polyester,L,0
+CS033,White,Spandex,L,0
+CS033,Maroon,Polyester,XL,0
+CS033,White,Cotton Combed,S,20s
+CS033,Grey,Cotton Combed,S,30s
+CS033,Sage,Polyester,L,0
+CS033,White,Spandex,L,0
+CS033,Maroon,Spandex,M,24s
+CS033,Black,Polyester,XXL,0
+CS033,Mustard,Cotton Combed,L,0
+CS033,Maroon,Spandex,XXL,0
+CS034,Black,Cotton Combed,XL,0
+CS034,Black,Cotton Combed,XL,0
+CS034,White,Spandex,S,0
+CS034,Maroon,Cotton Combed,S,0
+CS034,Mustard,Polyester,L,20s
+CS034,Black,Spandex,S,0
+CS034,Grey,Spandex,S,0
+CS034,Grey,Polyester,XL,0
+CS034,Black,Polyester,S,20s
+CS034,Grey,Cotton Combed,L,30s
+CS035,Grey,Polyester,M,24s
+CS035,Sage,Spandex,M,20s
+CS035,Mustard,Polyester,XXL,0
+CS035,Grey,Polyester,XL,0
+CS035,Black,Polyester,S,0
+CS035,Mustard,Spandex,L,0
+CS035,Black,Polyester,L,0
+CS035,Grey,Spandex,M,20s
+CS035,Black,Polyester,S,24s
+CS035,Sage,Polyester,L,0
+CS036,Black,Cotton Combed,S,20s
+CS036,Maroon,Cotton Combed,S,20s
+CS036,Maroon,Polyester,S,0
+CS036,Black,Cotton Combed,M,20s
+CS036,Maroon,Cotton Combed,M,20s
+CS036,Mustard,Cotton Combed,M,20s
+CS036,Sage,Cotton Combed,M,20s
+CS036,Grey,Cotton Combed,L,20s
+CS036,Mustard,Cotton Combed,L,20s
+CS036,White,Cotton Combed,L,20s
+CS037,Black,Cotton Combed,XL,20s
+CS037,Grey,Cotton Combed,XL,20s
+CS037,Maroon,Cotton Combed,XL,20s
+CS037,Sage,Cotton Combed,XL,20s
+CS037,White,Cotton Combed,XL,20s
+CS037,Maroon,Spandex,XL,0
+CS037,Grey,Cotton Combed,XXL,20s
+CS037,Mustard,Cotton Combed,XXL,20s
+CS037,Sage,Cotton Combed,XXL,20s
+CS037,White,Cotton Combed,XXL,20s
+CS038,Grey,Spandex,XXL,0
+CS038,Black,Cotton Combed,S,24s
+CS038,Grey,Cotton Combed,S,24s
+CS038,Maroon,Cotton Combed,S,24s
+CS038,White,Cotton Combed,S,24s
+CS038,Black,Cotton Combed,M,24s
+CS038,Grey,Cotton Combed,M,24s
+CS038,Maroon,Cotton Combed,M,24s
+CS038,White,Cotton Combed,M,24s
+CS038,Black,Cotton Combed,L,24s
+CS039,Grey,Cotton Combed,XL,24s
+CS039,Maroon,Cotton Combed,XL,24s
+CS039,Mustard,Cotton Combed,XL,24s
+CS039,Sage,Cotton Combed,XL,24s
+CS039,Black,Cotton Combed,XXL,24s
+CS039,Grey,Cotton Combed,XXL,24s
+CS039,Maroon,Cotton Combed,XXL,24s
+CS039,Mustard,Cotton Combed,XXL,24s
+CS039,Sage,Cotton Combed,XXL,24s
+CS039,White,Cotton Combed,XXL,24s
+CS040,Black,Cotton Combed,S,30s
+CS040,Maroon,Cotton Combed,S,30s
+CS040,Sage,Cotton Combed,S,30s
+CS040,White,Cotton Combed,S,30s
+CS040,Black,Cotton Combed,M,30s
+CS040,Grey,Cotton Combed,M,30s
+CS040,Maroon,Cotton Combed,M,30s
+CS040,Mustard,Cotton Combed,M,30s
+CS040,Sage,Cotton Combed,M,30s
+CS040,White,Cotton Combed,M,30s
+CS041,Maroon,Cotton Combed,L,30s
+CS041,Mustard,Cotton Combed,L,30s
+CS041,Sage,Cotton Combed,L,30s
+CS041,White,Cotton Combed,L,30s
+CS041,Black,Cotton Combed,XL,30s
+CS041,Grey,Cotton Combed,XL,30s
+CS041,Maroon,Cotton Combed,XL,30s
+CS041,Mustard,Cotton Combed,XL,30s
+CS041,White,Cotton Combed,XL,30s
+CS041,Black,Cotton Combed,XXL,30s
+CS042,Grey,Cotton Combed,XXL,30s
+CS042,Maroon,Cotton Combed,XXL,30s
+CS042,Mustard,Cotton Combed,XXL,30s
+CS042,Sage,Cotton Combed,XXL,30s
+CS042,White,Cotton Combed,XXL,30s
+CS042,Black,Cotton Combed,S,30s
+CS042,Maroon,Cotton Combed,S,30s
+CS042,Mustard,Cotton Combed,M,30s
+CS042,Sage,Cotton Combed,M,30s
+CS042,Maroon,Cotton Combed,M,24s
+CS042,White,Cotton Combed,M,24s
+CS043,Black,Cotton Combed,L,24s
+CS043,Grey,Cotton Combed,XL,20s
+CS043,Maroon,Cotton Combed,XL,20s
+CS043,Sage,Cotton Combed,XL,20s
+CS043,Grey,Cotton Combed,M,24s
+CS043,Maroon,Cotton Combed,M,24s
+CS043,White,Cotton Combed,M,24s
+CS043,Black,Cotton Combed,L,24s
+CS043,Mustard,Cotton Combed,XL,24s
+CS043,Sage,Cotton Combed,XL,24s
+CS044,Black,Cotton Combed,XXL,24s
+CS044,Grey,Cotton Combed,XXL,24s
+CS044,Maroon,Polyester,S,0
+CS044,Maroon,Polyester,S,0
+CS044,Black,Cotton Combed,XL,30s
+CS044,White,Polyester,XL,0
+CS044,Grey,Polyester,XXL,0
+CS044,Mustard,Cotton Combed,XXL,20s
+CS044,Sage,Cotton Combed,XXL,20s
+CS044,Mustard,Polyester,S,0
+CS045,Maroon,Cotton Combed,XXL,24s
+CS045,Grey,Spandex,XXL,0
+CS045,White,Polyester,M,0
+CS045,Grey,Spandex,S,0
+CS045,Black,Cotton Combed,M,20s
+CS045,Mustard,Spandex,L,0
+CS045,Maroon,Spandex,XXL,0
+CS045,Grey,Spandex,XXL,0
+CS045,Sage,Polyester,M,0
+CS045,Black,Polyester,XXL,0
